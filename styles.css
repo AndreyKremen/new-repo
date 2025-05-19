@@ -9,7 +9,7 @@ font-family: "Open Sans", sans-serif;
 font-size: 24px;
 }
 h1{
-width: 1000px;
+width: 500px;
 background-color: rgb(170, 194, 33);
 padding: 20px;
 color:rgb(241, 37, 37);  
@@ -18,7 +18,7 @@ font-size: 64px;
 flex: auto;
 }
 .river{
-width: 1000px;
+width: 500px;
 background-color: rgb(33, 36, 194);
 padding: 20px;
 color:rgb(37, 241, 64);  
@@ -27,7 +27,7 @@ font-size: 24px;
 flex: auto;
 }
 .history{
-width: 1000px;
+width: 500px;
 background-color: rgb(170, 194, 33);
 padding: 20px;
 color:rgb(132, 37, 241);  
@@ -36,7 +36,7 @@ font-size: 24px;
 flex: auto;
 }
 .glory{
-width: 1000px;
+width: 500px;
 background-color: rgb(221, 35, 35);
 padding: 20px;
 color:rgb(225, 231, 233);  
@@ -45,20 +45,55 @@ font-size: 24px;
 flex: auto;
 }
 .industry{
-width: 1000px;
+width: 500px;
 background-color: rgb(124, 5, 5);
 padding: 20px;
 color:rgb(222, 236, 14);  
 text-align: left;    
 font-size: 24px;
-flex: auto;
+flex: auto ;
 }
 .Love{
-width: 1000px;
+width: 500px;
 background-color: rgb(221, 35, 159);
 padding: 20px;
 color:rgb(225, 231, 233);  
 text-align: left;    
 font-size: 24px;
 flex: auto;
+}
+div{
+width: 1200px;
+background-color: rgb(33, 194, 194);
+padding: 20px;
+color:rgb(241, 37, 37);  
+text-align: center;    
+font-size: 24px;
+flex: auto;
+}
+h2{
+background-color: rgb(170, 194, 33);
+padding: 20px;
+color:rgb(241, 37, 37);  
+text-align: center;    
+font-size: 64px;
+flex: auto;
+}
+img{
+width: 500px;
+}
+table{
+border-collapse: collapse ;
+border-color: white;
+text-align: center;
+}
+td{
+    padding: 20px;
+    background-color: blueviolet;
+    color: white;
+}
+th{
+    padding: 20px;
+    background-color: blueviolet;
+    color: white;
 }
