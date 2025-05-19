@@ -8,6 +8,9 @@ background-color: rgb(27, 161, 150);
 font-family: "Open Sans", sans-serif;
 font-size: 24px;
 }
+a{
+color: brown;
+}
 h1{
 width: 500px;
 background-color: rgb(170, 194, 33);
